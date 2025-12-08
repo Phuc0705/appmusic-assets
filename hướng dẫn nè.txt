@@ -1,5 +1,5 @@
 1. trước khi up đọc trước file .txt mỗi folder
-2. khi up xong hết nhớ tạo cái .json giống vậy
+2. khi up xong hết nhớ tạo code trong .json giống vậy
 3. chỉ sửa đường dẫn đuôi nha (https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/folder nào /đuôi ) đường dẫn này là ma thuật đen
 {
   "songs": {
