@@ -1,0 +1,34 @@
+1. trước khi up đọc trước file .txt mỗi folder
+2. khi up xong hết nhớ tạo cái .json giống vậy
+3. chỉ sửa đường dẫn đuôi nha (https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/folder nào /đuôi ) đường dẫn này là ma thuật đen
+{
+  "songs": {
+    "-O0000000001": {
+      "title": "Ghé Qua",
+      "artist": "artist_1", -> tên tác giả
+      "category": "cat_1", -> tên loại nhạc
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/GheQua.mp3", -> tên mp3
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/ghequa.jpg", ->tên ảnh nền nhạc
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
+    },
+    
+  },
+
+  "categories": { -> loại nhạc
+    "cat_1": {
+      "name": "V-Pop", 
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/vpop_cover.jpg" -> ảnh loại nhạc
+    },
+    
+  },
+
+  "artists": { -> tác giả
+    "artist_1": {
+      "name": "Dick, PC, Tofu",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/dick_pc_tofu.jpg" -> ảnh tác giả
+    },
+    
+  }
+}
