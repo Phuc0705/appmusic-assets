@@ -1,0 +1,46 @@
+{
+  "songs": {
+    "-O0000000001": {
+      "title": "Ghé Qua",
+      "artist": "artist_1",
+      "category": "cat_1",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/GheQua.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/ghequa.jpg",
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
+    },
+    "-O0000000002": {
+      "title": "See You Again",
+      "artist": "artist_2",
+      "category": "cat_2",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/See%20You%20Again.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/see_you_again.jpg",
+      "duration": 228000,
+      "listenCount": 888,
+      "isFavorite": false
+    }
+  },
+
+  "categories": {
+    "cat_1": {
+      "name": "V-Pop",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/vpop_cover.jpg"
+    },
+    "cat_2": {
+      "name": "US-UK",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/usuk_cover.jpg"
+    }
+  },
+
+  "artists": {
+    "artist_1": {
+      "name": "Dick, PC, Tofu",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/dick_pc_tofu.jpg"
+    },
+    "artist_2": {
+      "name": "Wiz Khalifa & Charlie Puth",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/wiz_charlie.jpg"
+    }
+  }
+}
