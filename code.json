@@ -530,6 +530,16 @@
       "listenCount": 999,
       "isFavorite": false
     },
+    "-O0000000054": {
+      "title": "Central Cee - Doja",
+      "artist": "centralcee",
+      "category": "rap",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Central_Cee_Doja.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/centralcee_doja.jpg",
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
+    },
   },
   "categories": {
     "cat_vpop": {
@@ -597,6 +607,10 @@
     "trungquanidol": {
       "name": "Trung Quân Idol",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/trungquanidol.jpg"
+    },
+    "centralcee": {
+      "name": "Central Cee",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/centralcee.jpg"
     },
   }
 }
