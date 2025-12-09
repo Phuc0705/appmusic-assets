@@ -560,5 +560,33 @@
       "name": "king von",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/king_von.jpg"
     },
+    "mono": {
+      "name": "MONO",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/mono.jpg"
+    },
+    "denvau": {
+      "name": "Đen Vâu",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/denvau.jpg"
+    },
+    "jack97": {
+      "name": "Jack - J97",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/jack97.jpg"
+    },
+    "maroon5": {
+      "name": "Maroon 5",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/Maroon_5.jpg"
+    },
+    "Đen_Vâu_ft_Nguyên_Thảo": {
+      "name": "Đen Vâu ft. Nguyên Thảo",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/Đen_Vâu_ft_Nguyên_Thảo.jpg"
+    },
+    "Đen_Vâu_ft_JustaTee": {
+      "name": "Đen Vâu ft. JustaTee",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/Đen%20Vâu_ft_JustaTee.jpg"
+    },
+    "trungquanidol": {
+      "name": "Trung Quân Idol",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/trungquanidol.jpg"
+    },
   }
 }
