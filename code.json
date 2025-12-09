@@ -1,7 +1,7 @@
 {
   "songs": {
     "-O0000000001": {
-      "title": "Đánh Đổi",
+      "title": "danh-doi",
       "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_DanhDoi.mp3",
@@ -11,7 +11,7 @@
       "isFavorite": false
     },
     "-O0000000002": {
-      "title": "Tự Sự",
+      "title": "tu-su",
       "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_Tu%20Su.mp3",
@@ -21,7 +21,7 @@
       "isFavorite": false
     },
     "-O0000000003": {
-      "title": "Ước Mơ Của Mẹ",
+      "title": "uoc-mo-cua-me",
       "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_UocMoCuaMe.mp3",
@@ -31,7 +31,7 @@
       "isFavorite": false
     },
     "-O0000000004": {
-      "title": "Vô Điều Kiện",
+      "title": "vo-dieu-kien",
       "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_VoDieuKien.mp3",
@@ -41,7 +41,7 @@
       "isFavorite": false
     },
     "-O0000000005": {
-      "title": "Kho Báu Đánh Rơi (feat. Grey D)",
+      "title": "kho-bau-danh-roi-feat-grey-d",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_khobaudanhroi.mp3",
@@ -51,7 +51,7 @@
       "isFavorite": false
     },
     "-O0000000006": {
-      "title": "Kết Thúc = Mở Đầu",
+      "title": "ket-thuc-mo-dau",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_ketthucbangmodau.mp3",
@@ -61,7 +61,7 @@
       "isFavorite": false
     },
     "-O0000000007": {
-      "title": "Làm Lành Chữa Tình",
+      "title": "lam-lanh-chua-tinh",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_lamlanhchuatinh.mp3",
@@ -71,7 +71,7 @@
       "isFavorite": false
     },
     "-O0000000008": {
-      "title": "Người Điên",
+      "title": "nguoi-dien",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_nguoidien.mp3",
@@ -81,7 +81,7 @@
       "isFavorite": false
     },
     "-O0000000009": {
-      "title": "Những Đóm Sáng",
+      "title": "nhung-dom-sang",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_nhungdomsang.mp3",
@@ -91,7 +91,7 @@
       "isFavorite": false
     },
     "-O0000000010": {
-      "title": "Nữ Siêu Anh Hùng",
+      "title": "nu-sieu-anh-hung",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_nusieuanhhung.mp3",
@@ -101,7 +101,7 @@
       "isFavorite": false
     },
     "-O0000000011": {
-      "title": "Thế Giới Thần Tiên",
+      "title": "the-gioi-than-tien",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_thegioithantien.mp3",
@@ -111,7 +111,7 @@
       "isFavorite": false
     },
     "-O0000000012": {
-      "title": "Tình Yêu Có Nghĩa Là Gì",
+      "title": "tinh-yeu-co-nghia-la-gi",
       "artist": "tlinh",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/tlinh_tinhyeuconghialagi.mp3",
@@ -121,7 +121,7 @@
       "isFavorite": false
     },
     "-O0000000013": {
-      "title": "Âm Thầm Bên Em",
+      "title": "am-tham-ben-em",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_amthambenem.mp3",
@@ -131,7 +131,7 @@
       "isFavorite": false
     },
     "-O0000000014": {
-      "title": "Ghé Qua",
+      "title": "ghe-qua",
       "artist": "Dick, PC, Tofu",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/GheQua.mp3",
@@ -141,7 +141,7 @@
       "isFavorite": false
     },
     "-O0000000015": {
-      "title": "See You Again",
+      "title": "see-you-again",
       "artist": "Wiz Khalifa, Charlie Puth",
       "category": "cat_usuk",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SeeYouAgain.mp3",
@@ -150,8 +150,8 @@
       "listenCount": 6200000000,
       "isFavorite": false
     },
-        "-O0000000016": {
-      "title": "Triệu Điều Nhỏ Xíu Xíu Lòng",
+    "-O0000000016": {
+      "title": "trieu-dieu-nho-xiu-xiu-long",
       "artist": "Đen Vâu",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Trieu_dieu_nho_xiu_xieu_long_DEN.mp3",
@@ -161,7 +161,7 @@
       "isFavorite": false
     },
     "-O0000000017": {
-      "title": "Trốn Tìm",
+      "title": "tron-tim",
       "artist": "Đen Vâu ft. MTV Band",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Tron_tim_DEN.mp3",
@@ -171,7 +171,7 @@
       "isFavorite": false
     },
     "-O0000000018": {
-      "title": "Một Năm Mới Bình An",
+      "title": "mot-nam-moi-binh-an",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_1nammoibinhan.mp3",
@@ -181,7 +181,7 @@
       "isFavorite": false
     },
     "-O0000000019": {
-      "title": "Vì Nha",
+      "title": "vi-nha",
       "artist": "Đen Vâu",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Vi_nha_DEN.mp3",
@@ -191,7 +191,7 @@
       "isFavorite": false
     },
     "-O0000000020": {
-      "title": "Vô Kích Của Em X Váy Gì",
+      "title": "vo-kich-cua-em-x-vay-gi",
       "artist": "chị Caitlin Hale (remix viral)",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Vo_kich_cua_em_X_Vay_giu.mp3",
@@ -201,7 +201,7 @@
       "isFavorite": false
     },
     "-O0000000021": {
-      "title": "Đầu Mưa",
+      "title": "dau-mua",
       "artist": "Trung Quân Idol",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/trungquan_daumua.mp3",
@@ -211,7 +211,7 @@
       "isFavorite": false
     },
     "-O0000000022": {
-      "title": "Anh Vui",
+      "title": "anh-vui",
       "artist": "Đen Vâu ft. JustaTee",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/anh_vui.mp3",
@@ -221,7 +221,7 @@
       "isFavorite": false
     },
     "-O0000000023": {
-      "title": "Hai Triệu Năm",
+      "title": "hai-trieu-nam",
       "artist": "Đen Vâu",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/hai_trieu_nam_DEN.mp3",
@@ -231,7 +231,7 @@
       "isFavorite": false
     },
     "-O0000000024": {
-      "title": "Hẹn Họ Nhưng Không Yêu (Remix)",
+      "title": "hen-ho-nhung-khong-yeu-remix",
       "artist": "Various Artists (viral remix)",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/hen_ho_nhung_khong_yeu_remix.mp3",
@@ -241,7 +241,7 @@
       "isFavorite": false
     },
     "-O0000000025": {
-      "title": "Champion",
+      "title": "champion",
       "artist": "Obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_Champion.mp3",
@@ -251,7 +251,7 @@
       "isFavorite": false
     },
     "-O0000000026": {
-      "title": "Con Ké Ba Nghệ",
+      "title": "con-ke-ba-nghe",
       "artist": "Obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_ConKeBaNghe.mp3",
@@ -260,8 +260,8 @@
       "listenCount": 1100000,
       "isFavorite": false
     },
-        "-O0000000027": {
-      "title": "Young",
+    "-O0000000027": {
+      "title": "young",
       "artist": "MONO",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO%20-%20Young.mp3",
@@ -271,7 +271,7 @@
       "isFavorite": false
     },
     "-O0000000028": {
-      "title": "Em Xinh",
+      "title": "em-xinh",
       "artist": "MONO",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO%20-%20‘Em%20Xinh’.mp3",
@@ -281,7 +281,7 @@
       "isFavorite": false
     },
     "-O0000000029": {
-      "title": "Mang Tiền Về Cho Mẹ",
+      "title": "mang-tien-ve-cho-me",
       "artist": "Đen Vâu ft. Nguyên Thảo",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Mang_tien_ve_cho_me_DEN.mp3",
@@ -291,7 +291,7 @@
       "isFavorite": false
     },
     "-O0000000030": {
-      "title": "Sugar",
+      "title": "sugar",
       "artist": "Maroon 5",
       "category": "cat_usuk",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Maroon_5_Sugar.mp3",
@@ -301,7 +301,7 @@
       "isFavorite": false
     },
     "-O0000000031": {
-      "title": "Nắng Đuổi Chân Mây",
+      "title": "nang-duoi-chan-may",
       "artist": "Chillies",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Nang_duoi_chan_may.mp3",
@@ -311,7 +311,7 @@
       "isFavorite": false
     },
     "-O0000000032": {
-      "title": "Anh Đã Không Biết Cười",
+      "title": "anh-da-khong-biet-cuoi",
       "artist": "Quang Đăng Trần",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/quangdangtran_nhunggidaqualieurangcoynghiag.mp3",
@@ -321,7 +321,7 @@
       "isFavorite": false
     },
     "-O0000000033": {
-      "title": "Bông Hoa Đẹp Nhất",
+      "title": "bong-hoa-dep-nhat",
       "artist": "Quân A.P",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/quanap_bonghoadepnhat.mp3",
@@ -331,7 +331,7 @@
       "isFavorite": false
     },
     "-O0000000034": {
-      "title": "Giá Như Bật Nó Lên",
+      "title": "gia-nhu-bat-no-len",
       "artist": "SOOBIN",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/soobin_gianhubatnolen.mp3",
@@ -340,8 +340,8 @@
       "listenCount": 6500000,
       "isFavorite": false
     },
-        "-O0000000035": {
-      "title": "Chúng Ta Của Hiện Tại",
+    "-O0000000035": {
+      "title": "chung-ta-cua-hien-tai",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_chungtacuahientai.mp3",
@@ -351,7 +351,7 @@
       "isFavorite": false
     },
     "-O0000000036": {
-      "title": "Chúng Ta Của Tương Lai",
+      "title": "chung-ta-cua-tuong-lai",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_chungtacuatuonglai.mp3",
@@ -361,7 +361,7 @@
       "isFavorite": false
     },
     "-O0000000037": {
-      "title": "Hãy Trao Cho Anh (ft. Snoop Dogg)",
+      "title": "hay-trao-cho-anh-ft-snoop-dogg",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_haytraochoanh.mp3",
@@ -371,7 +371,7 @@
       "isFavorite": false
     },
     "-O0000000038": {
-      "title": "Muộn Rồi Mà Sao Còn",
+      "title": "muon-roi-ma-sao-con",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_muonroimasaocon.mp3",
@@ -381,7 +381,7 @@
       "isFavorite": false
     },
     "-O0000000039": {
-      "title": "Đừng Làm Trái Tim Anh Đau",
+      "title": "dung-lam-trai-tim-anh-dau",
       "artist": "Sơn Tùng M-TP",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/sontung_dunglamtraitimanhdau.mp3",
@@ -390,8 +390,8 @@
       "listenCount": 112000000,
       "isFavorite": false
     },
-        "-O0000000040": {
-      "title": "Chẳng Phải Tình Đầu Sao Đau Đến Thế",
+    "-O0000000040": {
+      "title": "chang-phai-tinh-dau-sao-dau-den-the",
       "artist": "MIN ft. ERIK",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MIN_changphaitinhdaudaudenthe.mp3",
@@ -401,7 +401,7 @@
       "isFavorite": false
     },
     "-O0000000041": {
-      "title": "Open Your Eyes",
+      "title": "open-your-eyes",
       "artist": "MONO",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO%20-%20'OPEN%20YOUR%20EYES’.mp3",
@@ -411,7 +411,7 @@
       "isFavorite": false
     },
     "-O0000000042": {
-      "title": "Cưới Lên",
+      "title": "cuoi-len",
       "artist": "MONO",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mono_cuoilen.mp3",
@@ -420,8 +420,8 @@
       "listenCount": 4200000,
       "isFavorite": false
     },
-        "-O0000000043": {
-      "title": "Chúng Ta Rồi Sẽ Hạnh Phúc",
+    "-O0000000043": {
+      "title": "chung-ta-roi-se-hanh-phuc",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_chungtaroisehanhphuc(huongduongnguocnang).mp3",
@@ -431,7 +431,7 @@
       "isFavorite": false
     },
     "-O0000000044": {
-      "title": "Dưới Tán Cây Khô Hoa Nở",
+      "title": "duoi-tan-cay-kho-hoa-no",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_duoitancaykhohoano.mp3",
@@ -441,7 +441,7 @@
       "isFavorite": false
     },
     "-O0000000045": {
-      "title": "Hoa Hải Đường",
+      "title": "hoa-hai-duong",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_hoahaiduong.mp3",
@@ -451,7 +451,7 @@
       "isFavorite": false
     },
     "-O0000000046": {
-      "title": "LayLaLay",
+      "title": "laylalay",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_laylalay.mp3",
@@ -461,7 +461,7 @@
       "isFavorite": false
     },
     "-O0000000047": {
-      "title": "J97 - Cuối Cùng Thì",
+      "title": "j97-cuoi-cung-thi",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_cuoicungthi.mp3",
@@ -471,7 +471,7 @@
       "isFavorite": false
     },
     "-O0000000048": {
-      "title": "Ngôi Sao Cô Đơn",
+      "title": "ngoi-sao-co-don",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_ngoisaocodon.mp3",
@@ -481,7 +481,7 @@
       "isFavorite": false
     },
     "-O0000000049": {
-      "title": "Thiên Lý Ơi",
+      "title": "thien-ly-oi",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_thienlyoi.mp3",
@@ -491,7 +491,7 @@
       "isFavorite": false
     },
     "-O0000000050": {
-      "title": "Trịnh Gia",
+      "title": "trinh-gia",
       "artist": "Jack - J97",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/j97_trinhgia.mp3",
@@ -501,7 +501,7 @@
       "isFavorite": false
     },
     "-O0000000051": {
-      "title": "Took Her To The O",
+      "title": "took-her-to-the-o",
       "artist": "king_von",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Took_her_to_the_o.mp3",
@@ -511,7 +511,7 @@
       "isFavorite": false
     },
     "-O0000000052": {
-      "title": "Armed & Dangerous",
+      "title": "armed-dangerous",
       "artist": "king_von",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Armed%26Dangerous.mp3",
@@ -521,7 +521,7 @@
       "isFavorite": false
     },
     "-O0000000053": {
-      "title": "3 A.M",
+      "title": "3-a-m",
       "artist": "king_von",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/3_A.M.mp3",
@@ -531,7 +531,7 @@
       "isFavorite": false
     },
     "-O0000000054": {
-      "title": "Central Cee - Doja",
+      "title": "central-cee-doja",
       "artist": "centralcee",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Central_Cee_Doja.mp3",
