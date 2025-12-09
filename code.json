@@ -2,7 +2,7 @@
   "songs": {
     "-O0000000001": {
       "title": "Đánh Đổi",
-      "artist": "Obito",
+      "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_DanhDoi.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/danhdoi.jpg",
@@ -12,7 +12,7 @@
     },
     "-O0000000002": {
       "title": "Tự Sự",
-      "artist": "Obito",
+      "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_Tu%20Su.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/obito_tusu.jpg",
@@ -22,7 +22,7 @@
     },
     "-O0000000003": {
       "title": "Ước Mơ Của Mẹ",
-      "artist": "Obito",
+      "artist": "obito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_UocMoCuaMe.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/obito_uocmocuame.jpg",
@@ -32,7 +32,7 @@
     },
     "-O0000000004": {
       "title": "Vô Điều Kiện",
-      "artist": "Obito",
+      "artist": "oobito",
       "category": "cat_vpop",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_VoDieuKien.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/obito_vodieukien.jpg",
