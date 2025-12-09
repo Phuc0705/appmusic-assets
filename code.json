@@ -339,6 +339,166 @@
       "duration": 208000,
       "listenCount": 6500000,
       "isFavorite": false
+    },
+        "-O0000000035": {
+      "title": "Chúng Ta Của Hiện Tại",
+      "artist": "Sơn Tùng M-TP",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SƠN TÙNG M-TP CHÚNG TA CỦA HIỆN TẠI.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/sontung_chungtacuahientai.jpg",
+      "duration": 298000,
+      "listenCount": 178000000,
+      "isFavorite": false
+    },
+    "-O0000000036": {
+      "title": "Chúng Ta Của Tương Lai",
+      "artist": "Sơn Tùng M-TP",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SƠN TÙNG M-TP CHÚNG TA CỦA TƯƠNG LAI.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/sontung_chungtacuatuonglai.jpg",
+      "duration": 265000,
+      "listenCount": 45000000,
+      "isFavorite": false
+    },
+    "-O0000000037": {
+      "title": "Hãy Trao Cho Anh (ft. Snoop Dogg)",
+      "artist": "Sơn Tùng M-TP",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SƠN TÙNG M-TP HÃY TRAO CHO ANH ft. Snoop Dogg.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/sontung_haytraochoanh.jpg",
+      "duration": 255000,
+      "listenCount": 285000000,
+      "isFavorite": false
+    },
+    "-O0000000038": {
+      "title": "Muộn Rồi Mà Sao Còn",
+      "artist": "Sơn Tùng M-TP",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SƠN TÙNG M-TP MUỘN RỒI MÀ SAO CÒN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/sontung_muonroimasaocon.jpg",
+      "duration": 278000,
+      "listenCount": 198000000,
+      "isFavorite": false
+    },
+    "-O0000000039": {
+      "title": "Đừng Làm Trái Tim Anh Đau",
+      "artist": "Sơn Tùng M-TP",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SƠN TÙNG M-TP ĐỪNG LÀM TRÁI TIM ANH ĐAU.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/sontung_dunglamtraitimanhdau.jpg",
+      "duration": 262000,
+      "listenCount": 112000000,
+      "isFavorite": false
+    },
+        "-O0000000040": {
+      "title": "Chẳng Phải Tình Đầu Sao Đau Đến Thế",
+      "artist": "MIN ft. ERIK",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MIN - chẳng phải tình đầu sao đau đến thế feat. Dangrangto, Antransax.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/min_erik_changphaitinhdau.jpg",
+      "duration": 248000,
+      "listenCount": 8900000,
+      "isFavorite": false
+    },
+    "-O0000000041": {
+      "title": "Open Your Eyes",
+      "artist": "MONO",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO - 'OPEN YOUR EYES’.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/mono_openyoureyes.jpg",
+      "duration": 212000,
+      "listenCount": 6800000,
+      "isFavorite": false
+    },
+    "-O0000000042": {
+      "title": "Cưới Lên",
+      "artist": "MONO",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO - Cười Lên.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/mono_cuoi_len.jpg",
+      "duration": 205000,
+      "listenCount": 4200000,
+      "isFavorite": false
+    },
+        "-O0000000043": {
+      "title": "Chúng Ta Rồi Sẽ Hạnh Phúc",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Chúng Ta Rồi Sẽ Hạnh Phúc (Hướng Dương Ngược Nắng).mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_chungtaroiselhanhphuc.jpg",
+      "duration": 258000,
+      "listenCount": 18500000,
+      "isFavorite": false
+    },
+    "-O0000000044": {
+      "title": "Dưới Tán Cây Khô Hoa Nở",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Dưới Tán Cây Khô Hoa Nở.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_duoitancaykhohoano.jpg",
+      "duration": 242000,
+      "listenCount": 9200000,
+      "isFavorite": false
+    },
+    "-O0000000045": {
+      "title": "Hoa Hải Đường",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Jack _ Hoa Hải Đường _ Official Music Video.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_hoahaiduong.jpg",
+      "duration": 275000,
+      "listenCount": 198000000,
+      "isFavorite": false
+    },
+    "-O0000000046": {
+      "title": "LayLaLay",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Jack _ LAYLALAY _ Official Music Video.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_laylalay.jpg",
+      "duration": 208000,
+      "listenCount": 165000000,
+      "isFavorite": false
+    },
+    "-O0000000047": {
+      "title": "J97 - Cuối Cùng Thì",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Jack – J97 _ Cuối Cùng Thì _ Official Lyric Video.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_cuoicungthi.jpg",
+      "duration": 268000,
+      "listenCount": 32000000,
+      "isFavorite": false
+    },
+    "-O0000000048": {
+      "title": "Ngôi Sao Cô Đơn",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Ngôi Sao Cô Đơn-1.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_ngoisaocodon.jpg",
+      "duration": 298000,
+      "listenCount": 89000000,
+      "isFavorite": false
+    },
+    "-O0000000049": {
+      "title": "Thiên Lý Ơi",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Thiên Lý Ơi.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_thienlyoi.jpg",
+      "duration": 255000,
+      "listenCount": 142000000,
+      "isFavorite": false
+    },
+    "-O0000000050": {
+      "title": "Trịnh Gia",
+      "artist": "Jack - J97",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Jack - J97 - Trịnh Gia.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/jack_trinhgia.jpg",
+      "duration": 232000,
+      "listenCount": 21000000,
+      "isFavorite": false
     }
   },
   "categories": {
