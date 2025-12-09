@@ -149,6 +149,196 @@
       "duration": 229000,
       "listenCount": 6200000000,
       "isFavorite": false
+    },
+        "-O0000000016": {
+      "title": "Triệu Điều Nhỏ Xíu Xíu Lòng",
+      "artist": "Đen Vâu",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Trieu_dieu_nho_xiu_xieu_long_DEN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/den_trieudieunho.jpg",
+      "duration": 268000,
+      "listenCount": 4500000,
+      "isFavorite": false
+    },
+    "-O0000000017": {
+      "title": "Trốn Tìm",
+      "artist": "Đen Vâu ft. MTV Band",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Tron_tim_DEN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/den_trontim.jpg",
+      "duration": 285000,
+      "listenCount": 72000000,
+      "isFavorite": false
+    },
+    "-O0000000018": {
+      "title": "Một Năm Mới Bình An",
+      "artist": "Sơn Tùng M-TP",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MỘT NĂM MỚI BÌNH AN - Sơn Tùng.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/sontung_motnammoi.jpg",
+      "duration": 242000,
+      "listenCount": 38000000,
+      "isFavorite": false
+    },
+    "-O0000000019": {
+      "title": "Vì Nha",
+      "artist": "Đen Vâu",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Vi_nha_DEN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/den_vinha.jpg",
+      "duration": 212000,
+      "listenCount": 1800000,
+      "isFavorite": false
+    },
+    "-O0000000020": {
+      "title": "Vô Kích Của Em X Váy Gì",
+      "artist": "chị Caitlin Hale (remix viral)",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Vo_kich_cua_em_X_Vay_giu.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/vokichcuamem_vaygi.jpg",
+      "duration": 195000,
+      "listenCount": 12000000,
+      "isFavorite": false
+    },
+    "-O0000000021": {
+      "title": "Đầu Mưa",
+      "artist": "Trung Quân Idol",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/[MV] Dấu Mưa - Trung Quân - TRUNG QUÂN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/trungquan_daumua.jpg",
+      "duration": 278000,
+      "listenCount": 5100000,
+      "isFavorite": false
+    },
+    "-O0000000022": {
+      "title": "Anh Vui",
+      "artist": "Đen Vâu ft. JustaTee",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/anh_vui.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/den_anhvui.jpg",
+      "duration": 255000,
+      "listenCount": 8900000,
+      "isFavorite": false
+    },
+    "-O0000000023": {
+      "title": "Hai Triệu Năm",
+      "artist": "Đen Vâu",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/hai_trieu_nam_DEN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/den_haitrieunam.jpg",
+      "duration": 298000,
+      "listenCount": 65000000,
+      "isFavorite": false
+    },
+    "-O0000000024": {
+      "title": "Hẹn Họ Nhưng Không Yêu (Remix)",
+      "artist": "Various Artists (viral remix)",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/hen_ho_nhung_khong_yeu_remix.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/henhonhungkhongyeu_remix.jpg",
+      "duration": 208000,
+      "listenCount": 15000000,
+      "isFavorite": false
+    },
+    "-O0000000025": {
+      "title": "Champion",
+      "artist": "Obito",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_Champion.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/obito_champion.jpg",
+      "duration": 185000,
+      "listenCount": 980000,
+      "isFavorite": false
+    },
+    "-O0000000026": {
+      "title": "Con Ké Ba Nghệ",
+      "artist": "Obito",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/obito_ConKeBaNghe.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/obito_conkebanghe.jpg",
+      "duration": 202000,
+      "listenCount": 1100000,
+      "isFavorite": false
+    },
+        "-O0000000027": {
+      "title": "Young",
+      "artist": "MONO",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO - Young.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/mono_young.jpg",
+      "duration": 225000,
+      "listenCount": 5200000,
+      "isFavorite": false
+    },
+    "-O0000000028": {
+      "title": "Em Xinh",
+      "artist": "MONO",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/MONO - ‘Em Xinh’.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/mono_emxinh.jpg",
+      "duration": 198000,
+      "listenCount": 9100000,
+      "isFavorite": false
+    },
+    "-O0000000029": {
+      "title": "Mang Tiền Về Cho Mẹ",
+      "artist": "Đen Vâu ft. Nguyên Thảo",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Mang_tien_ve_cho_me_DEN.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/den_mangtienvechome.jpg",
+      "duration": 292000,
+      "listenCount": 118000000,
+      "isFavorite": false
+    },
+    "-O0000000030": {
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Maroon 5 - Sugar (Official Music Video) - Maroon5VEVO.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/maroon5_sugar.jpg",
+      "duration": 235000,
+      "listenCount": 3900000000,
+      "isFavorite": false
+    },
+    "-O0000000031": {
+      "title": "Nắng Đuổi Chân Mây",
+      "artist": "Chillies",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Nang_duoi_chan_may.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/chillies_nangduoichanmay.jpg",
+      "duration": 268000,
+      "listenCount": 3200000,
+      "isFavorite": false
+    },
+    "-O0000000032": {
+      "title": "Anh Đã Không Biết Cười",
+      "artist": "Quang Đăng Trần",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Những gì đã qua liệu rằng có ý nghĩa gì - Quang Dang Tran.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/quangdangtran_anhdakhongbietcuoi.jpg",
+      "duration": 245000,
+      "listenCount": 1800000,
+      "isFavorite": false
+    },
+    "-O0000000033": {
+      "title": "Bông Hoa Đẹp Nhất",
+      "artist": "Quân A.P",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/QuanAP_BongHoaDepNhat.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/quanap_bonghoadepnhat.jpg",
+      "duration": 272000,
+      "listenCount": 48000000,
+      "isFavorite": false
+    },
+    "-O0000000034": {
+      "title": "Giá Như Bật Nó Lên",
+      "artist": "SOOBIN",
+      "category": "cat_vpop",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/SOOBIN_GiaNhuBatNoLen.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/soobin_gianhubatnolen.jpg",
+      "duration": 208000,
+      "listenCount": 6500000,
+      "isFavorite": false
     }
   },
   "categories": {
