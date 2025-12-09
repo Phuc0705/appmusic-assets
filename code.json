@@ -510,6 +510,16 @@
       "listenCount": 999,
       "isFavorite": false
     },
+    "-O0000000052": {
+      "title": "Armed & Dangerous",
+      "artist": "king_von",
+      "category": "rap",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Armed%26Dangerous.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/Armed%26Dangerou.jpg",
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
+    },
   },
   "categories": {
     "cat_vpop": {
