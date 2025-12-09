@@ -499,7 +499,17 @@
       "duration": 232000,
       "listenCount": 21000000,
       "isFavorite": false
-    }
+    },
+    "-O0000000051": {
+      "title": "Took Her To The O",
+      "artist": "king_von",
+      "category": "rap",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Took_her_to_the_o.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/took_her_to_the_o.jpg",
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
+    },
   },
   "categories": {
     "cat_vpop": {
@@ -509,7 +519,11 @@
     "cat_usuk": {
       "name": "US-UK",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/usuk_cover.jpg"
-    }
+    },
+    "rap": {
+      "name": "rap",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/album/rap.jpg"
+    },
   },
   "artists": {
     "obito": {
@@ -531,6 +545,10 @@
     "wizcharlie": {
       "name": "Wiz Khalifa, Charlie Puth",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/wiz_charlie.jpg"
-    }
+    },
+    "king_von": {
+      "name": "king von",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/king_von.jpg"
+    },
   }
 }
