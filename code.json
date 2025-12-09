@@ -542,11 +542,11 @@
     },
     "tlinh": {
       "name": "tlinh",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/artist_tlinh.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/tlinh.jpg"
     },
     "sontung": {
       "name": "Sơn Tùng M-TP",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/artist_sontung.jpg"
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/sontungmtp.jpg"
     },
     "dickpcto": {
       "name": "Dick, PC, Tofu",
