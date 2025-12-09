@@ -502,7 +502,7 @@
     },
     "-O0000000051": {
       "title": "Took Her To The O",
-      "artist": "king_von",
+      "artist": "king von",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Took_her_to_the_o.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/took_her_to_the_o.jpg",
@@ -512,7 +512,7 @@
     },
     "-O0000000052": {
       "title": "Armed & Dangerous",
-      "artist": "king_von",
+      "artist": "king von",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Armed%26Dangerous.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/Armed%26Dangerou.jpg",
@@ -522,7 +522,7 @@
     },
     "-O0000000053": {
       "title": "3 A.M",
-      "artist": "king_von",
+      "artist": "king von",
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/3_A.M.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/3am.jpg",
@@ -546,6 +546,16 @@
       "category": "rap",
       "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/CENTRAL_CEE_BAND4BAND.mp3",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/centralcee_band4band.jpg",
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
+    },
+    "-O0000000056": {
+      "title": "How It Go",
+      "artist": "king von",
+      "category": "rap",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/King%20Von%20-%20How%20It%20Go.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/kingvon_howitgo.jpg",
       "duration": 219000,
       "listenCount": 999,
       "isFavorite": false
