@@ -569,6 +569,16 @@
       "duration": 219000,
       "listenCount": 999,
       "isFavorite": false
+    },
+    "-O0000000058": {
+      "title": "The Weeknd, JENNIE, Lily-Rose Depp - One Of The Girls",
+      "artist": "The Weeknd",
+      "category": "rap",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/The%20Weeknd_JENNIE_Lily-Rose_Depp%20-%20One_Of_The_Girls.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/theweeknd_oneofthegirls.jpg",
+      "duration": 219000,
+      "listenCount": 999,
+      "isFavorite": false
     }
   },
   "categories": {
@@ -641,6 +651,10 @@
     "centralcee": {
       "name": "Central Cee",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/centralcee.jpg"
+    },
+    "theweeknd": {
+      "name": "The Weeknd",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/theweeknd.jpg"
     }
   }
 }
