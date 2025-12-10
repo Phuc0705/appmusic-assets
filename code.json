@@ -579,7 +579,341 @@
       "duration": 219000,
       "listenCount": 999,
       "isFavorite": false
-    }
+    },
+    "-O0000000059": {
+      "title": "Afterthought",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_Afterthoughti.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/59.jpg",
+      "duration": 201000,
+      "listenCount": 98500000,
+      "isFavorite": false
+    },
+    "-O0000000060": {
+      "title": "Die For You",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_dieforyou.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/60.jpg",
+      "duration": 208000,
+      "listenCount": 168000000,
+      "isFavorite": false
+    },
+    "-O0000000061": {
+      "title": "Gimme Love",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_GimmeLove.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/61.jpg",
+      "duration": 225000,
+      "listenCount": 312000000,
+      "isFavorite": false
+    },
+    "-O0000000062": {
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_glimpseofus.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/62.jpg",
+      "duration": 239000,
+      "listenCount": 1250000000,
+      "isFavorite": false
+    },
+    "-O0000000063": {
+      "title": "If Only Gets Better",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_ifitonlygetsbetteri.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/63.jpg",
+      "duration": 182000,
+      "listenCount": 67800000,
+      "isFavorite": false
+    },
+    "-O0000000064": {
+      "title": "Past Won't Leave My Bed",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_passwontleavemybed.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/64.jpg",
+      "duration": 198000,
+      "listenCount": 45200000,
+      "isFavorite": false
+    },
+    "-O0000000065": {
+      "title": "PIXELATED KISSES",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_PIXELATEDKISSES.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/65.jpg",
+      "duration": 176000,
+      "listenCount": 38900000,
+      "isFavorite": false
+    },
+    "-O0000000066": {
+      "title": "Slow Dancing In The Dark",
+      "artist": "Joji",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/Joji_slowdancinginthedark.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/66.jpg",
+      "duration": 210000,
+      "listenCount": 980000000,
+      "isFavorite": false
+    },
+      "-O0000000067": {
+      "title": "her",
+      "artist": "JVKE",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/JVKE_her.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/67.jpg",
+      "duration": 168000,
+      "listenCount": 185000000,
+      "isFavorite": false
+    },
+    "-O0000000068": {
+      "title": "golden hour",
+      "artist": "JVKE",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/JVKE_goldenhour.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/68.jpg",
+      "duration": 210000,
+      "listenCount": 985000000,
+      "isFavorite": false
+    },
+    "-O0000000069": {
+      "title": "this is what falling in love feels like",
+      "artist": "JVKE",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/JVKE_thisiswhatfallinginlovefeelslike.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/69.jpg",
+      "duration": 152000,
+      "listenCount": 1200000000,
+      "isFavorite": false
+    },
+    "-O0000000070": {
+      "title": "this is what heartbreak feels like",
+      "artist": "JVKE",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/JVKE_thisiswhatheartbreakfeelslike.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/70.jpg",
+      "duration": 158000,
+      "listenCount": 485000000,
+      "isFavorite": false
+    },
+      "-O0000000071": {
+      "title": "Between the Breaths",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_BetweentheBreathes.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/71.jpg",
+      "duration": 236000,
+      "listenCount": 18500000,
+      "isFavorite": false
+    },
+    "-O0000000072": {
+      "title": "Cop Car",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_CopCar.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/72.jpg",
+      "duration": 192000,
+      "listenCount": 22100000,
+      "isFavorite": false
+    },
+    "-O0000000073": {
+      "title": "Dan the Dancer",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_DantheDancer.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/73.jpg",
+      "duration": 138000,
+      "listenCount": 34200000,
+      "isFavorite": false
+    },
+    "-O0000000074": {
+      "title": "Fireworks",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_Fireworks.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/74.jpg",
+      "duration": 165000,
+      "listenCount": 78500000,
+      "isFavorite": false
+    },
+    "-O0000000075": {
+      "title": "Happy",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_Happy.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/75.jpg",
+      "duration": 225000,
+      "listenCount": 61200000,
+      "isFavorite": false
+    },
+    "-O0000000076": {
+      "title": "I Bet on Losing Dogs",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_IBetonLosingDogs.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/76.jpg",
+      "duration": 172000,
+      "listenCount": 198000000,
+      "isFavorite": false
+    },
+    "-O0000000077": {
+      "title": "Let My Love Open the Door",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_LetMyLoveOpentheDoor.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/77.jpg",
+      "duration": 148000,
+      "listenCount": 12800000,
+      "isFavorite": false
+    },
+    "-O0000000078": {
+      "title": "My Body's Made of Crushed Little Stars",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_MyBodysMadeofCrushedLittleStars.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/78.jpg",
+      "duration": 112000,
+      "listenCount": 98500000,
+      "isFavorite": false
+    },
+    "-O0000000079": {
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_OnceMoretoSeeYou.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/79.jpg",
+      "duration": 182000,
+      "listenCount": 45200000,
+      "isFavorite": false
+    },
+    "-O0000000080": {
+      "title": "Quiet Rooms Don't Stay Quiet",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_QuietRoomsDontStayQuiet.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/80.jpg",
+      "duration": 158000,
+      "listenCount": 18900000,
+      "isFavorite": false
+    },
+    "-O0000000081": {
+      "title": "Sanctuary",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_Sanctuary.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/81.jpg",
+      "duration": 172000,
+      "listenCount": 112000000,
+      "isFavorite": false
+    },
+    "-O0000000082": {
+      "title": "Susie Save Your Love",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_SusieSaveYourLove.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/82.jpg",
+      "duration": 212000,
+      "listenCount": 38500000,
+      "isFavorite": false
+    },
+    "-O0000000083": {
+      "title": "Thursday Girl",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_ThursdayGirl.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/83.jpg",
+      "duration": 195000,
+      "listenCount": 51200000,
+      "isFavorite": false
+    },
+    "-O0000000084": {
+      "title": "Your Best American Girl",
+      "artist": "Mitski",
+      "category": "cat_usuk",
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/mitski_YourBestAmericanGirl.mp3",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/84.jpg",
+      "duration": 208000,
+      "listenCount": 168000000,
+      "isFavorite": false
+    },
+    "-O0000000085": { 
+      "title": "All The Stars", 
+      "artist": "Kendrick Lamar", 
+      "category": "cat_usuk", 
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_AlltheStars.mp3", 
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/85.jpg", 
+      "duration": 232000, 
+      "listenCount": 980000000, 
+      "isFavorite": false 
+    },
+    "-O0000000086": { 
+      "title": "Alright", 
+      "artist": "Kendrick Lamar", 
+      "category": "cat_usuk", 
+      "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Alright.mp3", 
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/86.jpg", 
+      "duration": 219000, 
+      "listenCount": 720000000, 
+      "isFavorite": false 
+    },
+    "-O0000000087": { "title": "Bad Blood", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_BadBlood.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/87.jpg", "duration": 230000, "listenCount": 1200000000, "isFavorite": false },
+    "-O0000000088": { "title": "Bitch Don't Kill My Vibe", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_BitchDontKillMyVibe.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/88.jpg", "duration": 310000, "listenCount": 480000000, "isFavorite": false },
+    "-O0000000089": { "title": "Count Me Out", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_CountMeOut.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/89.jpg", "duration": 278000, "listenCount": 210000000, "isFavorite": false },
+    "-O0000000090": { "title": "Die Hard", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_DieHard.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/90.jpg", "duration": 239000, "listenCount": 380000000, "isFavorite": false },
+    "-O0000000091": { "title": "Don't Wanna Know.", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_DontWannaKnow.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/91.jpg", "duration": 185000, "listenCount": 890000000, "isFavorite": false },
+    "-O0000000092": { "title": "Family Ties", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_FamilyTies.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/92.jpg", "duration": 252000, "listenCount": 620000000, "isFavorite": false },
+    "-O0000000093": { "title": "Goosebumps", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Goosebumps.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/93.jpg", "duration": 242000, "listenCount": 1100000000, "isFavorite": false },
+    "-O0000000094": { "title": "Heart Pt. 6", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_HeartPt6.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/94.jpg", "duration": 298000, "listenCount": 125000000, "isFavorite": false },
+    "-O0000000095": { "title": "Hey Now", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_HeyNow.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/95.jpg", "duration": 198000, "listenCount": 89000000, "isFavorite": false },
+    "-O0000000096": { "title": "Humble.", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Humble.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/96.jpg", "duration": 177000, "listenCount": 2100000000, "isFavorite": false },
+    "-O0000000097": { "title": "Like That", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_LikeThat.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/97.jpg", "duration": 267000, "listenCount": 780000000, "isFavorite": false },
+    "-O0000000098": { "title": "LOVE.", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Love.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/98.jpg", "duration": 213000, "listenCount": 980000000, "isFavorite": false },
+    "-O0000000099": { "title": "Luther", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Luther.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/99.jpg", "duration": 198000, "listenCount": 145000000, "isFavorite": false },
+    "-O0000000100": { "title": "Mask Off", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_MaskOff.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/100.jpg", "duration": 225000, "listenCount": 1200000000, "isFavorite": false },
+    "-O0000000101": { "title": "Money Trees", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_MoneyTrees.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/101.jpg", "duration": 386000, "listenCount": 680000000, "isFavorite": false },
+    "-O0000000102": { "title": "N95", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_N95.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/102.jpg", "duration": 194000, "listenCount": 520000000, "isFavorite": false },
+    "-O0000000103": { "title": "Not Like Us", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_NotLikeUs.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/103.jpg", "duration": 275000, "listenCount": 890000000, "isFavorite": false },
+    "-O0000000104": { "title": "Pray For Me", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_PrayForMe.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/104.jpg", "duration": 211000, "listenCount": 980000000, "isFavorite": false },
+    "-O0000000105": { "title": "Reincarnated", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Reincarnated.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/105.jpg", "duration": 265000, "listenCount": 89000000, "isFavorite": false },
+    "-O0000000106": { "title": "Rich Spirit", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_RichSpirit.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/106.jpg", "duration": 208000, "listenCount": 320000000, "isFavorite": false },
+    "-O0000000107": { "title": "Sidewalks", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_Sidewalks.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/107.jpg", "duration": 228000, "listenCount": 210000000, "isFavorite": false },
+    "-O0000000108": { "title": "The Greatest", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_TheGreatest.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/108.jpg", "duration": 242000, "listenCount": 185000000, "isFavorite": false },
+    "-O0000000109": { "title": "TV Off", "artist": "Kendrick Lamar", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/kendrick_TvOff.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/109.jpg", "duration": 232000, "listenCount": 98000000, "isFavorite": false },
+
+    "-O0000000110": { "title": "Affection", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Affection.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/110.jpg", "duration": 310000, "listenCount": 285000000, "isFavorite": false },
+    "-O0000000111": { "title": "Ambient Side", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_AmbienSlide.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/111.jpg", "duration": 245000, "listenCount": 89000000, "isFavorite": false },
+    "-O0000000112": { "title": "Apocalypse", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Apocalypse.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/112.jpg", "duration": 289000, "listenCount": 980000000, "isFavorite": false },
+    "-O0000000113": { "title": "Baby Blue Movie", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_BabyBlueMovie.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/113.jpg", "duration": 262000, "listenCount": 168000000, "isFavorite": false },
+    "-O0000000114": { "title": "Cry", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Cry.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/114.jpg", "duration": 258000, "listenCount": 485000000, "isFavorite": false },
+    "-O0000000115": { "title": "Dark Vacay", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_DarkVacay.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/115.jpg", "duration": 228000, "listenCount": 112000000, "isFavorite": false },
+    "-O0000000116": { "title": "Don't Let Me Go", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_DontLetMeGo.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/116.jpg", "duration": 272000, "listenCount": 265000000, "isFavorite": false },
+    "-O0000000117": { "title": "Dreaming of You", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_DreamingOfYou.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/117.jpg", "duration": 318000, "listenCount": 189000000, "isFavorite": false },
+    "-O0000000118": { "title": "Falling In Love", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_FallingInLove.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/118.jpg", "duration": 248000, "listenCount": 312000000, "isFavorite": false },
+    "-O0000000119": { "title": "Heavenly", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Heavenly.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/119.jpg", "duration": 285000, "listenCount": 398000000, "isFavorite": false },
+    "-O0000000120": { "title": "Hideaway", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Hideaway.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/120.jpg", "duration": 225000, "listenCount": 98000000, "isFavorite": false },
+    "-O0000000121": { "title": "Hot", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Hot.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/121.jpg", "duration": 232000, "listenCount": 168000000, "isFavorite": false },
+    "-O0000000122": { "title": "I'm A Firefighter", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_ImAFirefighter.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/122.jpg", "duration": 278000, "listenCount": 72000000, "isFavorite": false },
+    "-O0000000123": { "title": "K.", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_K.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/123.jpg", "duration": 318000, "listenCount": 485000000, "isFavorite": false },
+    "-O0000000124": { "title": "Keep On Loving You", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_KeeeponLovingYou.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/124.jpg", "duration": 245000, "listenCount": 198000000, "isFavorite": false },
+    "-O0000000125": { "title": "Kiss It Off Me", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_KissItOffMe.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/125.jpg", "duration": 268000, "listenCount": 285000000, "isFavorite": false },
+    "-O0000000126": { "title": "Nothing's Gonna Hurt You Baby", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_NothingsGonnaHurtYouBaby.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/126.jpg", "duration": 238000, "listenCount": 1200000000, "isFavorite": false },
+    "-O0000000127": { "title": "Pure", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Pure.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/127.jpg", "duration": 265000, "listenCount": 98000000, "isFavorite": false },
+    "-O0000000128": { "title": "Silver Sable", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_SilverSable.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/128.jpg", "duration": 232000, "listenCount": 89000000, "isFavorite": false },
+    "-O0000000129": { "title": "Starry Eyes", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_StarryEyes.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/129.jpg", "duration": 218000, "listenCount": 168000000, "isFavorite": false },
+    "-O0000000130": { "title": "Stop Waiting", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_StopWaiting.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/130.jpg", "duration": 298000, "listenCount": 72000000, "isFavorite": false },
+    "-O0000000131": { "title": "Sunsets", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Sunsetz.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/131.jpg", "duration": 245000, "listenCount": 112000000, "isFavorite": false },
+    "-O0000000132": { "title": "Sweet", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Sweet.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/132.jpg", "duration": 285000, "listenCount": 485000000, "isFavorite": false },
+    "-O0000000133": { "title": "Tejano Blue", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_TejanoBlue.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/133.jpg", "duration": 212000, "listenCount": 168000000, "isFavorite": false },
+    "-O0000000134": { "title": "Touch", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Touch.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/134.jpg", "duration": 265000, "listenCount": 212000000, "isFavorite": false },
+    "-O0000000135": { "title": "Xs", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_Xs.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/135.jpg", "duration": 228000, "listenCount": 89000000, "isFavorite": false },
+    "-O0000000136": { "title": "You're All I Want", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_YoureAllIWant.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/136.jpg", "duration": 272000, "listenCount": 198000000, "isFavorite": false },
+    "-O0000000137": { "title": "You're the Only Good Thing In My Life", "artist": "Cigarettes After Sex", "category": "cat_usuk", "url": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/songs/cigarettesaftersex_YouretheOnlyGoodThinginMyLife.mp3", "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/images/137.jpg", "duration": 278000, "listenCount": 168000000, "isFavorite": false }
+
+
   },
   "categories": {
     "cat_vpop": {
@@ -655,6 +989,26 @@
     "theweeknd": {
       "name": "The Weeknd",
       "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/theweeknd.jpg"
+    },
+    "Joji": {
+      "name": "Joji",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/Joji.jpg"
+    },
+      "JVKE": {
+      "name": "JVKE",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/JVKE.jpg"
+    },
+    "Kendrick Lamar": {
+      "name": "Kendrick Lamar",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/KendrickLamar.jpg"
+    },
+    "Cigarettes After Sex": {
+      "name": "Cigarettes After Sex",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/CigarettesAfterSex.jpg"
+    },
+    "Mitski": {
+      "name": "Mitski",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/Phuc0705/appmusic-assets/artist/Mitski.jpg"
     }
   }
 }
